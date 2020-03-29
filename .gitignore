@@ -1,0 +1,12 @@
+# Do not git data source files
+#*.tar.gz
+
+# Do not git logs
+log.txt
+fi_domains.json
+
+# Do not git following directories
+obsolete/
+node_modules/
+fi_domains/
+iana/
