@@ -5,6 +5,7 @@ The file [fi_domains.json](fi_domains.json) is collected from Traficom's public 
 
 ## Format
 Available in UTF-8 JSON format. For additional formats please contact me via [otacode.com](https://otacode.com) page.
+File is compressed to tarball file due to Github file size limits. Uncompress with command *tar -xzvf fi_domains.json.tar.gz* (in Linux)
 
 ## Versioning
 Please see the *generated* key in the JSON file.
