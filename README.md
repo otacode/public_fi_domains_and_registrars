@@ -11,7 +11,7 @@ File is compressed to tarball file due to Github file size limits. Uncompress wi
 Please see the *generated* key in the JSON file.
 
 ## Schedule
-Updated at least weekly automatically.
+Updated at least monthly automatically after go live (Q2/20).
 
 ## More information
 More information from [otacode.com](https://otacode.com)
